@@ -1,7 +1,7 @@
 class GroupBadge < ActiveRecord::Migration
-  def up
+  def self.up
   end
 
-  def down
+  def sefl.down
   end
 end
